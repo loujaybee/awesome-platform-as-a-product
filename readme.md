@@ -2,6 +2,8 @@ This is a repository dedicated to resources about "platform as a product". Feel 
 
 **Whitepapers**
 * [CNCF Platform Maturity Model](https://tag-app-delivery.cncf.io/whitepapers/platform-eng-maturity-model/)
+* [Cloud Native Maturity Model](https://maturitymodel.cncf.io/)
+* [CNCF Platforms Whitepaper](https://tag-app-delivery.cncf.io/whitepapers/platforms/)
 
 **Articles**
 * [So you want to hire for developer tooling](https://hazelweakly.me/blog/so-you-want-to-hire-for-developer-tooling/)
