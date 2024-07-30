@@ -1,4 +1,19 @@
-This is a repository dedicated to resources about "platform as a product". Feel free to contribute your own. 
+A repository dedicated to resources about "platform as a product". Feel free to contribute. 
+
+There are many "awesome-platform" resources, but this repository is a bit more niche on the product side. 
+
+Including content related to:
+1. Calculating ROI and getting platform capabilities funded
+2. Convincing stakeholders, storytelling, etc. 
+3. General platform design and UX aspects.
+
+This doesn't necessarily include highly technical aspects of platform like: 
+* Platform architectures
+* Things about Kubernetes
+
+As the internet already has plenty of that so far !
+
+---
 
 **Whitepapers**
 * [CNCF Platform Maturity Model](https://tag-app-delivery.cncf.io/whitepapers/platform-eng-maturity-model/)
